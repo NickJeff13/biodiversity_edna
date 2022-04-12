@@ -21,6 +21,6 @@ __Figure 1__ Map of the 19 coastal eelgrass beds sampled in the Pacific (a) and 
 
 
 
-![__](/inst/Figure2.jpg)
+![__](/inst/Figure2.JPG)
 
 __Figure 2__ Venn diagrams compared the fish taxa detected by eDNA and seining at family and species levels. For the lower panel, only taxa identified to the species level were considered.  
